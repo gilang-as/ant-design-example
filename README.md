@@ -1,5 +1,3 @@
-# ant-design-example
-
 <table align="center">
     <tr>
         <td>
