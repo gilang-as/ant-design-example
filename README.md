@@ -1,3 +1,9 @@
+### Pages
+    - Landing Page
+    - Login Page
+    - Register Page
+    - Dashboard (In Progress)
+### Screenshot
 <table align="center">
     <tr>
         <td>
