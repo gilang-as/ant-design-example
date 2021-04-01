@@ -3,9 +3,9 @@
     <img alt="Ant Design" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="60" />
   </a>
 </p>
-<h2 align="center">
+<h1 align="center">
   Muria Template
-</h2>
+</h1>
 <h4 align="center">
     Based on Ant Design
 </h4>
